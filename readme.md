@@ -1,2 +1,2 @@
 # my first 
-https://mybinder.org/v2/gh/ravidam/job/blob/main/AppleStore.csv/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ravidam/job/HEAD)
